@@ -1,5 +1,5 @@
 
-AareyKey_NGO
+AareyKeyFoundation_NGO_Website
 
 A collaborative full-stack NGO website for wildlife rescue, environmental conservation, volunteer coordination, and community awareness in Aarey Forest, Mumbai.
 Aarey Key Foundation is an NGO working in Aarey Forest, Mumbai, focused on wildlife protection and environmental conservation. It conducts animal rescue operations, handles wildlife emergencies, and collaborates with volunteers and local communities.
@@ -34,19 +34,29 @@ The organization aims to:
 🛠️ Tech Stack
 
 HTML
+
 CSS
+
 JavaScript
+
 Node.js
+
 Express.js
+
 PostgreSQL
+
 Git & GitHub
 
   🌍 Impact
 
 This project helps NGOs:
+
 improve wildlife rescue response
+
 securely store rescue and volunteer data
+
 improve community collaboration
+
 track plantation and awareness drives digitally
 
 👥 Team Collaboration
